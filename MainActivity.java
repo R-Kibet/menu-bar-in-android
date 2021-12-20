@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    //set  up menu bar in th application
+    //set  up menu bar in the application
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
